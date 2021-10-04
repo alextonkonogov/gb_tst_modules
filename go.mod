@@ -1,3 +1,3 @@
-module github.com/alextonkononogov/gb_tst_modules
+module github.com/alextonkonogov/gb_tst_modules
 
-go 1.14
+go 1.15
